@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Wie viele Planeten hat unser Sonnensystem?",
+    "answers": [
+      { "text": "7" },
+      { "text": "8" },
+      { "text": "9" },
+      { "text": "10" }
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welches Element hat das chemische Symbol 'O'?",
+    "answers": [
+      { "text": "Gold" },
+      { "text": "Silber" },
+      { "text": "Sauerstoff" },
+      { "text": "Wasserstoff" }
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Wer schrieb 'Die Verwandlung'?",
+    "answers": [
+      { "text": "Goethe" },
+      { "text": "Kafka" },
+      { "text": "Schiller" },
+      { "text": "Brecht" }
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Welches Tier ist das größte Säugetier der Welt?",
+    "answers": [
+      { "text": "Elefant" },
+      { "text": "Blauwal" },
+      { "text": "Giraffe" },
+      { "text": "Nilpferd" }
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Wie viele Bundesländer hat Deutschland?",
+    "answers": [
+      { "text": "14" },
+      { "text": "15" },
+      { "text": "16" },
+      { "text": "17" }
+    ],
+    "correct": 2
+  }
+]
