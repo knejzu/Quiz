@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <h1>Wer wird Millionär?</h1>
+    <p>Punktestand: <span id="score">0</span></p>
+    <div id="quiz-container">
+      <p class="question" id="question">Frage wird geladen...</p>
+      <div class="answers" id="answers"></div>
+      <button id="next" style="display: none" onclick="nextQuestion()">
+        Nächste Frage
+      </button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
